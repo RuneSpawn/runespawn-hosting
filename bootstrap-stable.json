@@ -16,7 +16,7 @@
         "-XX:CompileThreshold=1500",
         "--add-opens=java.desktop/sun.awt=ALL-UNNAMED"
     ],
-    "buildCommit": "0d2cf9713e9693fb1ad04f0c5ac8ee638cb06920",
+    "buildCommit": "d09dccc3b1ae3b2ca29df9474975a621d3f67e21",
     "launcherJvm11Arguments": [
         "-XX:+DisableAttachMechanism",
         "-Drunelite.launcher.nojvm=true",
@@ -50,7 +50,7 @@
         "kotlinx-coroutines-core-jvm-1.7.2.jar": "754f3a0f11dcaa019bf17c4f67836b371eb4f37693ac8e7c3badf5c6b1308d7c",
         "ktor-http-jvm-2.3.3.jar": "2b61a9f81c704f90ae5ab3e806c4bd30bd9dd344c090c061896a3f21080f2a92",
         "lwjgl-3.3.2-natives-windows-x86.jar": "21e6f5c1c68a171398daf7785ffb2797da89242f90d19e24236563f7c0b1f7e0",
-        "http-api-1.0.16-STABLE.jar": "8c4a9c7866fb8ebf01eb7a84ef1349cfbc743ae1892e62073ddef1abf8700ffd",
+        "http-api-1.0.16-STABLE.jar": "80875178be5ed231312fae9ec3e31fc540824b1d8618d64f38d18995df6735d8",
         "engine.io-client-1.0.0.jar": "191a5c2d777c22d258d414f94ff96a6620a93a38beec29a63c2c172794c87f0f",
         "lwjgl-opengl-3.3.2-natives-linux.jar": "8956bca64d2851dc14ec6bfbfc55ce35fdff89270b5f2a3c9f70aea77f6d1e17",
         "socket.io-client-1.0.0.jar": "5b048755cef24079e1ec1795f6ed0935422ed887786192811c2008bda0a2caf2",
@@ -77,7 +77,7 @@
         "kotlinx-serialization-core-jvm-1.5.1.jar": "a4053a35abeb59bf707d7948245556fe8dc379e9cfed088aec08134c899605d4",
         "ktor-client-core-jvm-2.3.3.jar": "d36370f99549be9cf5cc634c412aa381af4ac34d1c6a29da27b8d05a40838876",
         "pf4j-3.6.0.jar": "d0a653658b736f1916550a4e026a0ec24ccbde2a9b613a341588c4d7544643f4",
-        "runelite-client-1.0.16-STABLE.jar": "bab98d99e2c5912791cfc48b4989cb4168f59e12b85da3ba95c1d92109086a72",
+        "runelite-client-1.0.16-STABLE.jar": "081add4beaff2139a41b255951b7b523fdec6225f2f1307b891c1656ed7fe58f",
         "ktor-utils-jvm-2.3.3.jar": "eae66da3793024791ddbddf12c7c5efb92c6356777dc4a530415b42db57e3d1a",
         "listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar": "b372a037d4230aa57fbeffdef30fd6123f9c0c2db85d0aced00c91b974f33f99",
         "substance-8.0.02.jar": "0467d25f408428824d5c9c09ec60ee1f0bc341d9bf48971a77fd14939a826c83",
@@ -190,31 +190,31 @@
     "projectVersion": "1.0.16-STABLE",
     "artifacts": [
         {
-            "path": "https://raw.githubusercontent.com/jbx5/devious-hosting/master/stable/runescape-api-1.0.16-STABLE.jar",
+            "path": "https://raw.githubusercontent.com/RuneSpawn/runespawn-hosting/master/stable/runescape-api-1.0.16-STABLE.jar",
             "size": 129734,
             "name": "runescape-api-1.0.16-STABLE.jar",
             "hash": "fee14a7a314b43ad3186e6ea65cd277c883fbf6df5973704a63fefe1978c5cf1"
         },
         {
-            "path": "https://raw.githubusercontent.com/jbx5/devious-hosting/master/stable/runelite-api-1.0.16-STABLE.jar",
+            "path": "https://raw.githubusercontent.com/RuneSpawn/runespawn-hosting/master/stable/runelite-api-1.0.16-STABLE.jar",
             "size": 1417611,
             "name": "runelite-api-1.0.16-STABLE.jar",
             "hash": "9e0286a24a0ba0ea0ca569d7caee1ff95373b8224b19d00a7bcb066095ba73db"
         },
         {
-            "path": "https://raw.githubusercontent.com/jbx5/devious-hosting/master/stable/http-api-1.0.16-STABLE.jar",
+            "path": "https://raw.githubusercontent.com/RuneSpawn/runespawn-hosting/master/stable/http-api-1.0.16-STABLE.jar",
             "size": 95416,
             "name": "http-api-1.0.16-STABLE.jar",
-            "hash": "8c4a9c7866fb8ebf01eb7a84ef1349cfbc743ae1892e62073ddef1abf8700ffd"
+            "hash": "80875178be5ed231312fae9ec3e31fc540824b1d8618d64f38d18995df6735d8"
         },
         {
-            "path": "https://raw.githubusercontent.com/jbx5/devious-hosting/master/stable/runespawn-http-api-1.0.16-STABLE.jar",
+            "path": "https://raw.githubusercontent.com/RuneSpawn/runespawn-hosting/master/stable/runespawn-http-api-1.0.16-STABLE.jar",
             "size": 10352,
             "name": "runespawn-http-api-1.0.16-STABLE.jar",
             "hash": "ca46e266973fb663611f2138d693a8c3b5b49658d09db5260544030d28e4d9a7"
         },
         {
-            "path": "https://raw.githubusercontent.com/jbx5/devious-hosting/master/stable/runelite-jshell-1.0.16-STABLE.jar",
+            "path": "https://raw.githubusercontent.com/RuneSpawn/runespawn-hosting/master/stable/runelite-jshell-1.0.16-STABLE.jar",
             "size": 22950,
             "name": "runelite-jshell-1.0.16-STABLE.jar",
             "hash": "45263cf73d03229aa00d27eaf03d29bb8f93cd700a6ce8bff10bef66b0d87c33"
@@ -766,10 +766,10 @@
             "hash": "055be110a570f9cda3eba8d70a006ff46c77a048bc67868524879211c48b330a"
         },
         {
-            "path": "https://raw.githubusercontent.com/jbx5/devious-hosting/master/stable/runelite-client-1.0.16-STABLE.jar",
-            "size": 18168326,
+            "path": "https://raw.githubusercontent.com/RuneSpawn/runespawn-hosting/master/stable/runelite-client-1.0.16-STABLE.jar",
+            "size": 18168328,
             "name": "runelite-client-1.0.16-STABLE.jar",
-            "hash": "bab98d99e2c5912791cfc48b4989cb4168f59e12b85da3ba95c1d92109086a72"
+            "hash": "081add4beaff2139a41b255951b7b523fdec6225f2f1307b891c1656ed7fe58f"
         }
     ]
 }
