@@ -16,7 +16,7 @@
         "-XX:CompileThreshold=1500",
         "--add-opens=java.desktop/sun.awt=ALL-UNNAMED"
     ],
-    "buildCommit": "9d3168e15cba9579b2cfbb3345ae8f524b8ddcd1",
+    "buildCommit": "8721ed18a6458f9d839e08c87d171b2637582007",
     "launcherJvm11Arguments": [
         "-XX:+DisableAttachMechanism",
         "-Drunelite.launcher.nojvm=true",
@@ -25,41 +25,41 @@
         "-XX:CompileThreshold=1500"
     ],
     "dependencyHashes": {
+        "ktor-network-tls-jvm-2.3.6.jar": "7a5a7a89615c1fdbe810a377072c09c91c5ae71efe3df13841a353005874e265",
         "aerogear-otp-java-1.0.0.jar": "161b18950d103fe0325b2dc897f0c121f663cac94b5742cd62b97a9b36f15b63",
-        "ktor-events-jvm-2.3.3.jar": "e7dd8f0073ec537d6e35da852c9ce55f715420d686ebd42fc21bad2796d85734",
         "logback-core-1.2.9.jar": "4a9ef7ed809b1fbc6992bf87d404087c247e7a9766e25bb84377b58ed5c9eb58",
         "slf4j-api-1.7.36.jar": "d3ef575e3e4979678dc01bf1dcce51021493b4d11fb7f1be8ad982877c16a1c0",
         "desktopsupport-0.6.0.jar": "45726bd470f9d2507fbb0c96a11cf8eca0f902069d1b256bb038f125822ea290",
         "java-semver-0.9.0.jar": "2218c73b40f9af98b570d084420c1b4a81332297bd7fc27ddd552e903be8e93c",
+        "kotlinx-coroutines-jdk8-1.7.1.jar": "b96f7145ba69b48f4940534cb8e19c7e159c45443e27c36821626148ba1710f2",
         "annotations-23.0.0.jar": "7b0f19724082cbfcbc66e5abea2b9bc92cf08a1ea11e191933ed43801eb3cd05",
         "failureaccess-1.0.1.jar": "a171ee4c734dd2da837e4b16be9df4661afab72a41adaf31eb84dfdaf936ca26",
+        "ktor-client-core-jvm-2.3.6.jar": "17c46a56a128c54dc989160bd6d87b5101e8c64b801a91b4e4332ec299b0ebcb",
         "lwjgl-opengl-3.3.2-natives-windows-arm64.jar": "f8ab8ceac5a5b3e53f59ef4c717c3d4434cb7fa33969f240489d539f572c33b0",
         "guava-30.1.1-jre.jar": "44ce229ce26d880bf3afc362bbfcec34d7e6903d195bbb1db9f3b6e0d9834f06",
         "lwjgl-3.3.2.jar": "f8016606e74f3cafd63eae07b1331f903f999c9f40726c838399a144c3809217",
-        "ktor-websocket-serialization-jvm-2.3.3.jar": "f446806767e7c223a5c0fa65a0c189dbe26e7d8a9a705d47836eef0abd6f9492",
+        "kotlinx-coroutines-core-jvm-1.7.1.jar": "7496cffdd3eb10109acdda1c3212f6ac7815789e09380dc9e2ccdec496dba3fc",
         "commons-lang3-3.11.jar": "4ee380259c068d1dbe9e84ab52186f2acd65de067ec09beff731fca1697fdb16",
-        "kotlinx-coroutines-slf4j-1.7.2.jar": "412a0c1129f76f8dcbcc2c1c7de6483b3f6fcd70636ba5e2a3d523342910162c",
-        "ktor-http-jvm-2.3.3.jar": "2b61a9f81c704f90ae5ab3e806c4bd30bd9dd344c090c061896a3f21080f2a92",
+        "ktor-serialization-jvm-2.3.6.jar": "52d1b88873224b3d551512deb0ba8ec8ceccd05693a1bd603d976c85888550b3",
+        "runespawn-http-api-client-1.0.16-STABLE.jar": "f3316012ba53ae1bdb7f9623b43f123f9a2feb918311cb4ce39af0c0c18c6d8f",
         "lwjgl-3.3.2-natives-windows-x86.jar": "21e6f5c1c68a171398daf7785ffb2797da89242f90d19e24236563f7c0b1f7e0",
         "api-jvm-0.1.0.jar": "98f17cda09222728cda88625b470e51e397f297cd40c9a23ece21ff04ffed35d",
-        "http-api-1.0.16-STABLE.jar": "7467978789e79418c1940592e2996acaaa0a98e90248004947b394de3e62bbb3",
+        "http-api-1.0.16-STABLE.jar": "f515135b56f1528ad42cb720c212107d3ed52fedcb5c25823732f95526483ddb",
         "engine.io-client-1.0.0.jar": "191a5c2d777c22d258d414f94ff96a6620a93a38beec29a63c2c172794c87f0f",
         "rlawt-1.4.jar": "1efad07ade0ca6231c9870718f318950cce2e1c8da8b91e317067b616ce14a36",
         "lwjgl-opengl-3.3.2-natives-linux.jar": "8956bca64d2851dc14ec6bfbfc55ce35fdff89270b5f2a3c9f70aea77f6d1e17",
         "socket.io-client-1.0.0.jar": "5b048755cef24079e1ec1795f6ed0935422ed887786192811c2008bda0a2caf2",
         "discord-1.4.jar": "6409723fd13496386dfb1335a9794dc0919db6132522f2b7486d6734fc5df6e5",
+        "ktor-network-jvm-2.3.6.jar": "1b379f2ed8f1ea38f6538c9fd0468c6354affd9ef4b8b537f1b02ff8c6bdff31",
         "kotlin-stdlib-1.9.20.jar": "28a35bcdff46d864f80f346a617e486284b208d17378c41900dfb1de95a90e6c",
         "commons-io-2.8.0.jar": "02f291e5d1243dc143496e3cbbb40a1ced47aa58f2d633d3e38780cd068d5074",
+        "ktor-websockets-jvm-2.3.6.jar": "bd3c611fc11865ce50aa83cac77840a4354da827af6d3f862472ab2ec7936115",
         "jna-platform-5.9.0.jar": "1903bc6d87f3ab92023957b91f45a9c8eb3515bad030356ce977201e5141b724",
         "runelite-jshell-1.0.16-STABLE.jar": "f586e55666ba649dfdb36430b38d01d42291976d937f8153516477905c914bcf",
         "logback-classic-1.2.9.jar": "ad745cc243805800d1ebbf5b7deba03b37c95885e6bce71335a73f7d6d0f14ee",
         "jna-5.9.0.jar": "eafcc780b445434d3c5ae7fa2fb6665de1a7560d537d2c408a8e80cd14d27161",
-        "ktor-client-resources-jvm-2.3.3.jar": "0d60956a8fa4786f86b2ebb2a71edca09f7a7875e50c112254567a268bcf9ab6",
         "jocl-1.0-macos-arm64.jar": "4fb96241f95970bd329ef03af1e9c94a9114e91a571523bcaf2af66bee2f2bfa",
-        "ktor-client-core-jvm-2.3.3.jar": "d36370f99549be9cf5cc634c412aa381af4ac34d1c6a29da27b8d05a40838876",
         "pf4j-3.6.0.jar": "d0a653658b736f1916550a4e026a0ec24ccbde2a9b613a341588c4d7544643f4",
-        "ktor-client-cio-jvm-2.3.3.jar": "7492164af1228cf1fcf52f6629c9935ce4458a4fab131bd27317a16cee6baa55",
-        "ktor-http-cio-jvm-2.3.3.jar": "d77e4d056785bd05857eeb3b419a87796e0cf973c73d15c88c40883bd500eb1a",
         "miglayout-3.7.4.jar": "f3bf5ab4041767da532e11e78a49a183da499d1a54ba539232d833b75f965667",
         "lwjgl-3.3.2-natives-windows-arm64.jar": "1575d4e2e789b411b3a193ac04a2c2d53dbc504de80a560578191c1c7d79e5ee",
         "error_prone_annotations-2.5.1.jar": "ff80626baaf12a09342befd4e84cba9d50662f5fcd7f7a9b3490a6b7cf87e66c",
@@ -68,35 +68,35 @@
         "runescape-api-1.0.16-STABLE.jar": "10eb86d60eceb04b67af3088b650ba2bc065257b904e3a4b319ffdd5c05fb071",
         "lwjgl-opengl-3.3.2.jar": "0ebaaf92d306c946ce9d3db25496b9068b7aab782b15966be2544b6a24838038",
         "pf4j-update-2.3.0.jar": "79c9d6240cda82c3d31ee7a5722b635a3d37ad58c124a4db0ddea40145c30f45",
-        "ktor-client-content-negotiation-jvm-2.3.3.jar": "800b2413235a561eeb40327213172ec99b366753e760ce799dcd7ba0a3e0f6ee",
         "jnativehook-2.2.2.jar": "2c7904423bc680af02d9ea9557ae233c35199e302d072773a9d0304b568acd41",
-        "ktor-websockets-jvm-2.3.3.jar": "dfd25225103afaebca01f84f23dab91e0086cb58892dddb062d717274a34b2cd",
         "jgroups-5.2.2.Final.jar": "cfee5822e342c4018b9c71acc6aac0e23910f1b04725a0e44fe9f94ef2dc3f1e",
-        "ktor-network-jvm-2.3.3.jar": "68f8501a62831963610feb4e4f2012d2175b4f6fefc0b93e3beb3d0e1846795d",
         "rsyntaxtextarea-3.1.2.jar": "5333ffa1166c54853d784943c5c44326a5e27e1613de2c07819ae12afe207097",
-        "ktor-serialization-kotlinx-json-jvm-2.3.3.jar": "d2bd52872e6f51b19a4e2da61e2eb1d93cba548ea5818ef5dad53be119c5a207",
+        "ktor-http-jvm-2.3.6.jar": "3746af8f014313bffb07010dc19ff1a915d6ed26f6c30fa4a48887f001807b44",
+        "ktor-events-jvm-2.3.6.jar": "d11ba69b1af157b873e273479eb291cf8cd8fd1d047e2d33e30e3eaced519452",
+        "ktor-client-content-negotiation-jvm-2.3.6.jar": "3fb42b2bcb9840c7c96b628d5f87a4e6cf713997c5ba01ddf7fba837bdd63075",
+        "ktor-client-resources-jvm-2.3.6.jar": "8afb7af47fba4f4b684d0ff82cc447c72663d373917aa80f1cd3b0a19091bcc2",
         "lwjgl-opengl-3.3.2-natives-windows-x86.jar": "c3a32053bb4c042489f40936926487cdaf33089185b847fb298b84a62b5703ff",
-        "ktor-serialization-jvm-2.3.3.jar": "1979936233a23122e38a34351b395c686e06395cc402eb6fb969079dbae52782",
+        "kotlinx-coroutines-slf4j-1.7.1.jar": "fbb40ca7e55a78017feac897180be64f562a2eb781c6a3f6c9bb2ff88d92223f",
         "commons-text-1.9.jar": "0812f284ac5dd0d617461d9a2ab6ac6811137f25122dfffd4788a4871e732d00",
         "gson-2.8.5.jar": "233a0149fc365c9f6edbd683cfe266b19bdc773be98eabdaf6b3c924b48e7d81",
-        "kotlinx-coroutines-jdk8-1.7.2.jar": "c9a8f7f4df8d46e74a5efe0c587ecc4450b30ddf0230aa8d5ab8301ed640029e",
-        "kotlinx-coroutines-core-jvm-1.7.2.jar": "754f3a0f11dcaa019bf17c4f67836b371eb4f37693ac8e7c3badf5c6b1308d7c",
+        "ktor-websocket-serialization-jvm-2.3.6.jar": "5078bdfb5e0e8d7fedd0f0e9d2001f5909097f219fe886e61d4a17f9de7b546e",
         "kotlinx-datetime-jvm-0.4.0.jar": "075ca75a16e356484c07de3cc7bce79da9e4adbc670bbcf23c5e13f4e12ee6e7",
+        "ktor-io-jvm-2.3.6.jar": "efcd9f4451ac800e9e4002ebd758f6627ff4fe84cb9e80a8c62220904d244021",
+        "ktor-utils-jvm-2.3.6.jar": "008d9ecfa81283d5efa06c8ef3396b192bcbac17044c6f8d6f319e30fe1fcb23",
         "jocl-1.0-macos-x64.jar": "2bcb853daff68fe4faed28f871624a428c5db90f9e3ecb4286df8aeca4b93b38",
         "lwjgl-opencl-3.3.2.jar": "da0392abcea5121f5edd9042012600584ac628f4a18fcf5c1bce60f3f9f6a33a",
-        "ktor-serialization-kotlinx-jvm-2.3.3.jar": "2fd6da5c3c6a432776d8bbb38541653098d1973aba2dca5db30ada5827096b80",
+        "ktor-resources-jvm-2.3.6.jar": "4e39355ef6cf7c436c9138a14aae8bcfca4a76ff72fc829b68377e6f4b84aa89",
+        "ktor-client-logging-jvm-2.3.6.jar": "0ccfd56222cd54a9694fca56fbccb9d896c5cbfa3c2cca52e7117371cbf61abf",
         "reactive-streams-1.0.3.jar": "1dee0481072d19c929b623e155e14d2f6085dc011529a0a0dbefc84cf571d865",
         "rxjava-3.1.2.jar": "8d784075bec0b7c55042c109a4de8923b3b6d2ebd2e00912d518f07240f9c23a",
         "guice-5.0.1.jar": "3bae18be3e0f0940375d1ebdd2f3b84d87ae16026ae663b2f5d4667fe5b04036",
         "okio-jvm-2.8.0.jar": "4496b06e73982fcdd8a5393f46e5df2ce2fa4465df5895454cac68a32f09bbc8",
-        "runespawn-http-api-1.0.16-STABLE.jar": "a55902415e6fba087084727331c6de4ac86bb5b158858fdfb5947573a8eb1692",
         "kotlin-stdlib-jdk8-1.9.10.jar": "a4c74d94d64ce1abe53760fe0389dd941f6fc558d0dab35e47c085a11ec80f28",
         "checker-qual-3.8.0.jar": "c88c2e6a5fdaeb9f26fcf879264042de8a9ee9d376e2477838feaabcfa44dda6",
         "lwjgl-opengl-3.3.2-natives-macos-arm64.jar": "3120ecbcccf31f36064f260fa0127b4a359097a294ac5b3e7675d1867168f2e6",
         "commons-codec-1.10.jar": "4241dfa94e711d435f29a4604a3e2de5c4aa3c165e23bd066be6fc1fc4309569",
         "kotlinx-serialization-core-jvm-1.5.1.jar": "a4053a35abeb59bf707d7948245556fe8dc379e9cfed088aec08134c899605d4",
-        "runelite-client-1.0.16-STABLE.jar": "6c0e2d2a7a427105ed73f339eb3e6bb39c9b0ab1de758ab3d6ddb5944e18c1f5",
-        "ktor-utils-jvm-2.3.3.jar": "eae66da3793024791ddbddf12c7c5efb92c6356777dc4a530415b42db57e3d1a",
+        "runelite-client-1.0.16-STABLE.jar": "00abedd65a881e95b593360bfcfe0ead71cc3ffa22e0867a91c7ff67f6d53e0e",
         "listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar": "b372a037d4230aa57fbeffdef30fd6123f9c0c2db85d0aced00c91b974f33f99",
         "substance-8.0.02.jar": "0467d25f408428824d5c9c09ec60ee1f0bc341d9bf48971a77fd14939a826c83",
         "commons-csv-1.9.0.jar": "c418d6aab4db4f1f70983d355de8d7c1e755c754820a92294da2e5f5081022cc",
@@ -108,19 +108,19 @@
         "lwjgl-3.3.2-natives-macos.jar": "62603b9a92c789f0beb8ec25052f278d6f9ce02c6687c8f1afbc7483da54131a",
         "lwjgl-3.3.2-natives-macos-arm64.jar": "ebb8474ad3c19b906649ac41cef62314fd9b355cea5509d9be0c8728db7a6c38",
         "json-20090211.jar": "055be110a570f9cda3eba8d70a006ff46c77a048bc67868524879211c48b330a",
-        "ktor-io-jvm-2.3.3.jar": "8652482da0ad197c3a080902e48d0f410803d8dc969cbebbf852aa716cec9b22",
         "jocl-1.0.jar": "126bde4a6be269579a84a67dfc7707fd2916e0eef11b74c4de7cc61a36d2420e",
         "kotlinx-serialization-json-jvm-1.5.1.jar": "6fc10b056e1006963abb2b9fc393dcd4e38425358b6f16285e8f63d3429ffd21",
         "runelite-api-1.0.16-STABLE.jar": "735cce18cc5374a477c862d972e102d482a364c666f9a2e227cf187e816ac575",
         "lwjgl-3.3.2-natives-linux.jar": "89f53089a5f8a983db25140a1c94c72fe2a8f56feb6ddb597f55b8329ce5b400",
-        "ktor-network-tls-jvm-2.3.3.jar": "cb2cef86241b92444d261b775016a31e7e0ac15d1017bc8d2a6b5c15c9a471c9",
+        "ktor-client-cio-jvm-2.3.6.jar": "1d192b8f2511fbbbc19a600b9760005bf26717a236169078011a944445cbf199",
+        "ktor-serialization-kotlinx-jvm-2.3.6.jar": "0cd81926f83570a20c1afa0d028d07953ed4da15eaaa36976d13ee98b1169543",
         "lwjgl-3.3.2-natives-windows.jar": "ebc65354b64a33659cc642446dc15c6d62a4bd0ae15c9a6a4a3adbcd71f1f690",
         "aopalliance-1.0.jar": "0addec670fedcd3f113c5c8091d783280d23f75e3acb841b61a9cdb079376a08",
-        "ktor-resources-jvm-2.3.3.jar": "188829d8023844060940dc27006cf2616ad19bbfeecb0f4760075f2563ea162d",
         "lwjgl-opengl-3.3.2-natives-macos.jar": "0c6a78c4e696deaddefd8346b4c13883704b36a890003075a33ccba2d1a13c2d",
         "lwjgl-opengl-3.3.2-natives-windows.jar": "0275a42f91c6bc5f08bdc1f7c7e263058cc99dbed7c710a025e4ad175e9a0edd",
         "kotlin-stdlib-jdk7-1.9.10.jar": "ac6361bf9ad1ed382c2103d9712c47cdec166232b4903ed596e8876b0681c9b7",
-        "ktor-client-logging-jvm-2.3.3.jar": "f925b28af70f18ea2728aa515f25cc578f50b480cd0eafc2ec8157bd914fc907",
+        "ktor-http-cio-jvm-2.3.6.jar": "adb54beedb7650f255fbbc33c649699f1041640b0a7a4dc1d9326d18bfa7e161",
+        "ktor-serialization-kotlinx-json-jvm-2.3.6.jar": "13dae1b65f38d51387e716aba35fc443f3038a9264a41e4a98923c2fcfecb004",
         "gluegen-rt-2.4.0-rc-20220318.jar": "ba22a3338a3dea346801f5ae4a0341fc13f59bf4b02d54d575a6f0399a30e8b2",
         "j2objc-annotations-1.3.jar": "21af30c92267bd6122c0e0b4d20cccb6641a37eaf956c6540ec471d584e64a7b",
         "rxrelay-3.0.1.jar": "f47904873d4d2b7d71b22a7ec6424b40f69b33cb0342a48a94b0be3fdeb70bc5"
@@ -209,13 +209,13 @@
             "path": "https://raw.githubusercontent.com/RuneSpawn/runespawn-hosting/master/snapshot/http-api-1.0.16-STABLE.jar",
             "size": 96510,
             "name": "http-api-1.0.16-STABLE.jar",
-            "hash": "7467978789e79418c1940592e2996acaaa0a98e90248004947b394de3e62bbb3"
+            "hash": "f515135b56f1528ad42cb720c212107d3ed52fedcb5c25823732f95526483ddb"
         },
         {
-            "path": "https://raw.githubusercontent.com/RuneSpawn/runespawn-hosting/master/snapshot/runespawn-http-api-1.0.16-STABLE.jar",
+            "path": "https://raw.githubusercontent.com/RuneSpawn/runespawn-hosting/master/snapshot/runespawn-http-api-client-1.0.16-STABLE.jar",
             "size": 11559,
-            "name": "runespawn-http-api-1.0.16-STABLE.jar",
-            "hash": "a55902415e6fba087084727331c6de4ac86bb5b158858fdfb5947573a8eb1692"
+            "name": "runespawn-http-api-client-1.0.16-STABLE.jar",
+            "hash": "f3316012ba53ae1bdb7f9623b43f123f9a2feb918311cb4ce39af0c0c18c6d8f"
         },
         {
             "path": "https://raw.githubusercontent.com/RuneSpawn/runespawn-hosting/master/snapshot/runelite-jshell-1.0.16-STABLE.jar",
@@ -368,130 +368,130 @@
             "hash": "98f17cda09222728cda88625b470e51e397f297cd40c9a23ece21ff04ffed35d"
         },
         {
-            "path": "https://repo.maven.apache.org/maven2/io/ktor/ktor-client-cio-jvm/2.3.3/ktor-client-cio-jvm-2.3.3.jar",
-            "size": 132428,
-            "name": "ktor-client-cio-jvm-2.3.3.jar",
-            "hash": "7492164af1228cf1fcf52f6629c9935ce4458a4fab131bd27317a16cee6baa55"
+            "path": "https://repo.maven.apache.org/maven2/io/ktor/ktor-client-cio-jvm/2.3.6/ktor-client-cio-jvm-2.3.6.jar",
+            "size": 132268,
+            "name": "ktor-client-cio-jvm-2.3.6.jar",
+            "hash": "1d192b8f2511fbbbc19a600b9760005bf26717a236169078011a944445cbf199"
         },
         {
-            "path": "https://repo.maven.apache.org/maven2/io/ktor/ktor-client-content-negotiation-jvm/2.3.3/ktor-client-content-negotiation-jvm-2.3.3.jar",
-            "size": 27340,
-            "name": "ktor-client-content-negotiation-jvm-2.3.3.jar",
-            "hash": "800b2413235a561eeb40327213172ec99b366753e760ce799dcd7ba0a3e0f6ee"
+            "path": "https://repo.maven.apache.org/maven2/io/ktor/ktor-client-content-negotiation-jvm/2.3.6/ktor-client-content-negotiation-jvm-2.3.6.jar",
+            "size": 27341,
+            "name": "ktor-client-content-negotiation-jvm-2.3.6.jar",
+            "hash": "3fb42b2bcb9840c7c96b628d5f87a4e6cf713997c5ba01ddf7fba837bdd63075"
         },
         {
-            "path": "https://repo.maven.apache.org/maven2/io/ktor/ktor-client-resources-jvm/2.3.3/ktor-client-resources-jvm-2.3.3.jar",
-            "size": 30130,
-            "name": "ktor-client-resources-jvm-2.3.3.jar",
-            "hash": "0d60956a8fa4786f86b2ebb2a71edca09f7a7875e50c112254567a268bcf9ab6"
+            "path": "https://repo.maven.apache.org/maven2/io/ktor/ktor-client-resources-jvm/2.3.6/ktor-client-resources-jvm-2.3.6.jar",
+            "size": 30131,
+            "name": "ktor-client-resources-jvm-2.3.6.jar",
+            "hash": "8afb7af47fba4f4b684d0ff82cc447c72663d373917aa80f1cd3b0a19091bcc2"
         },
         {
-            "path": "https://repo.maven.apache.org/maven2/io/ktor/ktor-client-logging-jvm/2.3.3/ktor-client-logging-jvm-2.3.3.jar",
-            "size": 59606,
-            "name": "ktor-client-logging-jvm-2.3.3.jar",
-            "hash": "f925b28af70f18ea2728aa515f25cc578f50b480cd0eafc2ec8157bd914fc907"
+            "path": "https://repo.maven.apache.org/maven2/io/ktor/ktor-client-logging-jvm/2.3.6/ktor-client-logging-jvm-2.3.6.jar",
+            "size": 59607,
+            "name": "ktor-client-logging-jvm-2.3.6.jar",
+            "hash": "0ccfd56222cd54a9694fca56fbccb9d896c5cbfa3c2cca52e7117371cbf61abf"
         },
         {
-            "path": "https://repo.maven.apache.org/maven2/io/ktor/ktor-client-core-jvm/2.3.3/ktor-client-core-jvm-2.3.3.jar",
-            "size": 839592,
-            "name": "ktor-client-core-jvm-2.3.3.jar",
-            "hash": "d36370f99549be9cf5cc634c412aa381af4ac34d1c6a29da27b8d05a40838876"
+            "path": "https://repo.maven.apache.org/maven2/io/ktor/ktor-client-core-jvm/2.3.6/ktor-client-core-jvm-2.3.6.jar",
+            "size": 835851,
+            "name": "ktor-client-core-jvm-2.3.6.jar",
+            "hash": "17c46a56a128c54dc989160bd6d87b5101e8c64b801a91b4e4332ec299b0ebcb"
         },
         {
-            "path": "https://repo.maven.apache.org/maven2/io/ktor/ktor-serialization-kotlinx-json-jvm/2.3.3/ktor-serialization-kotlinx-json-jvm-2.3.3.jar",
-            "size": 24051,
-            "name": "ktor-serialization-kotlinx-json-jvm-2.3.3.jar",
-            "hash": "d2bd52872e6f51b19a4e2da61e2eb1d93cba548ea5818ef5dad53be119c5a207"
+            "path": "https://repo.maven.apache.org/maven2/io/ktor/ktor-serialization-kotlinx-json-jvm/2.3.6/ktor-serialization-kotlinx-json-jvm-2.3.6.jar",
+            "size": 24052,
+            "name": "ktor-serialization-kotlinx-json-jvm-2.3.6.jar",
+            "hash": "13dae1b65f38d51387e716aba35fc443f3038a9264a41e4a98923c2fcfecb004"
         },
         {
-            "path": "https://repo.maven.apache.org/maven2/io/ktor/ktor-events-jvm/2.3.3/ktor-events-jvm-2.3.3.jar",
+            "path": "https://repo.maven.apache.org/maven2/io/ktor/ktor-events-jvm/2.3.6/ktor-events-jvm-2.3.6.jar",
             "size": 7347,
-            "name": "ktor-events-jvm-2.3.3.jar",
-            "hash": "e7dd8f0073ec537d6e35da852c9ce55f715420d686ebd42fc21bad2796d85734"
+            "name": "ktor-events-jvm-2.3.6.jar",
+            "hash": "d11ba69b1af157b873e273479eb291cf8cd8fd1d047e2d33e30e3eaced519452"
         },
         {
-            "path": "https://repo.maven.apache.org/maven2/io/ktor/ktor-websocket-serialization-jvm/2.3.3/ktor-websocket-serialization-jvm-2.3.3.jar",
-            "size": 6907,
-            "name": "ktor-websocket-serialization-jvm-2.3.3.jar",
-            "hash": "f446806767e7c223a5c0fa65a0c189dbe26e7d8a9a705d47836eef0abd6f9492"
+            "path": "https://repo.maven.apache.org/maven2/io/ktor/ktor-websocket-serialization-jvm/2.3.6/ktor-websocket-serialization-jvm-2.3.6.jar",
+            "size": 6908,
+            "name": "ktor-websocket-serialization-jvm-2.3.6.jar",
+            "hash": "5078bdfb5e0e8d7fedd0f0e9d2001f5909097f219fe886e61d4a17f9de7b546e"
         },
         {
-            "path": "https://repo.maven.apache.org/maven2/io/ktor/ktor-http-cio-jvm/2.3.3/ktor-http-cio-jvm-2.3.3.jar",
+            "path": "https://repo.maven.apache.org/maven2/io/ktor/ktor-http-cio-jvm/2.3.6/ktor-http-cio-jvm-2.3.6.jar",
             "size": 164253,
-            "name": "ktor-http-cio-jvm-2.3.3.jar",
-            "hash": "d77e4d056785bd05857eeb3b419a87796e0cf973c73d15c88c40883bd500eb1a"
+            "name": "ktor-http-cio-jvm-2.3.6.jar",
+            "hash": "adb54beedb7650f255fbbc33c649699f1041640b0a7a4dc1d9326d18bfa7e161"
         },
         {
-            "path": "https://repo.maven.apache.org/maven2/io/ktor/ktor-serialization-kotlinx-jvm/2.3.3/ktor-serialization-kotlinx-jvm-2.3.3.jar",
-            "size": 34502,
-            "name": "ktor-serialization-kotlinx-jvm-2.3.3.jar",
-            "hash": "2fd6da5c3c6a432776d8bbb38541653098d1973aba2dca5db30ada5827096b80"
+            "path": "https://repo.maven.apache.org/maven2/io/ktor/ktor-serialization-kotlinx-jvm/2.3.6/ktor-serialization-kotlinx-jvm-2.3.6.jar",
+            "size": 34503,
+            "name": "ktor-serialization-kotlinx-jvm-2.3.6.jar",
+            "hash": "0cd81926f83570a20c1afa0d028d07953ed4da15eaaa36976d13ee98b1169543"
         },
         {
-            "path": "https://repo.maven.apache.org/maven2/io/ktor/ktor-serialization-jvm/2.3.3/ktor-serialization-jvm-2.3.3.jar",
+            "path": "https://repo.maven.apache.org/maven2/io/ktor/ktor-serialization-jvm/2.3.6/ktor-serialization-jvm-2.3.6.jar",
             "size": 24737,
-            "name": "ktor-serialization-jvm-2.3.3.jar",
-            "hash": "1979936233a23122e38a34351b395c686e06395cc402eb6fb969079dbae52782"
+            "name": "ktor-serialization-jvm-2.3.6.jar",
+            "hash": "52d1b88873224b3d551512deb0ba8ec8ceccd05693a1bd603d976c85888550b3"
         },
         {
-            "path": "https://repo.maven.apache.org/maven2/io/ktor/ktor-websockets-jvm/2.3.3/ktor-websockets-jvm-2.3.3.jar",
+            "path": "https://repo.maven.apache.org/maven2/io/ktor/ktor-websockets-jvm/2.3.6/ktor-websockets-jvm-2.3.6.jar",
             "size": 177905,
-            "name": "ktor-websockets-jvm-2.3.3.jar",
-            "hash": "dfd25225103afaebca01f84f23dab91e0086cb58892dddb062d717274a34b2cd"
+            "name": "ktor-websockets-jvm-2.3.6.jar",
+            "hash": "bd3c611fc11865ce50aa83cac77840a4354da827af6d3f862472ab2ec7936115"
         },
         {
-            "path": "https://repo.maven.apache.org/maven2/io/ktor/ktor-resources-jvm/2.3.3/ktor-resources-jvm-2.3.3.jar",
+            "path": "https://repo.maven.apache.org/maven2/io/ktor/ktor-network-tls-jvm/2.3.6/ktor-network-tls-jvm-2.3.6.jar",
+            "size": 208330,
+            "name": "ktor-network-tls-jvm-2.3.6.jar",
+            "hash": "7a5a7a89615c1fdbe810a377072c09c91c5ae71efe3df13841a353005874e265"
+        },
+        {
+            "path": "https://repo.maven.apache.org/maven2/io/ktor/ktor-resources-jvm/2.3.6/ktor-resources-jvm-2.3.6.jar",
             "size": 23055,
-            "name": "ktor-resources-jvm-2.3.3.jar",
-            "hash": "188829d8023844060940dc27006cf2616ad19bbfeecb0f4760075f2563ea162d"
+            "name": "ktor-resources-jvm-2.3.6.jar",
+            "hash": "4e39355ef6cf7c436c9138a14aae8bcfca4a76ff72fc829b68377e6f4b84aa89"
         },
         {
-            "path": "https://repo.maven.apache.org/maven2/io/ktor/ktor-http-jvm/2.3.3/ktor-http-jvm-2.3.3.jar",
+            "path": "https://repo.maven.apache.org/maven2/io/ktor/ktor-http-jvm/2.3.6/ktor-http-jvm-2.3.6.jar",
             "size": 414281,
-            "name": "ktor-http-jvm-2.3.3.jar",
-            "hash": "2b61a9f81c704f90ae5ab3e806c4bd30bd9dd344c090c061896a3f21080f2a92"
+            "name": "ktor-http-jvm-2.3.6.jar",
+            "hash": "3746af8f014313bffb07010dc19ff1a915d6ed26f6c30fa4a48887f001807b44"
         },
         {
-            "path": "https://repo.maven.apache.org/maven2/io/ktor/ktor-network-tls-jvm/2.3.3/ktor-network-tls-jvm-2.3.3.jar",
-            "size": 204207,
-            "name": "ktor-network-tls-jvm-2.3.3.jar",
-            "hash": "cb2cef86241b92444d261b775016a31e7e0ac15d1017bc8d2a6b5c15c9a471c9"
+            "path": "https://repo.maven.apache.org/maven2/io/ktor/ktor-network-jvm/2.3.6/ktor-network-jvm-2.3.6.jar",
+            "size": 214304,
+            "name": "ktor-network-jvm-2.3.6.jar",
+            "hash": "1b379f2ed8f1ea38f6538c9fd0468c6354affd9ef4b8b537f1b02ff8c6bdff31"
         },
         {
-            "path": "https://repo.maven.apache.org/maven2/io/ktor/ktor-network-jvm/2.3.3/ktor-network-jvm-2.3.3.jar",
-            "size": 214303,
-            "name": "ktor-network-jvm-2.3.3.jar",
-            "hash": "68f8501a62831963610feb4e4f2012d2175b4f6fefc0b93e3beb3d0e1846795d"
-        },
-        {
-            "path": "https://repo.maven.apache.org/maven2/io/ktor/ktor-utils-jvm/2.3.3/ktor-utils-jvm-2.3.3.jar",
+            "path": "https://repo.maven.apache.org/maven2/io/ktor/ktor-utils-jvm/2.3.6/ktor-utils-jvm-2.3.6.jar",
             "size": 336197,
-            "name": "ktor-utils-jvm-2.3.3.jar",
-            "hash": "eae66da3793024791ddbddf12c7c5efb92c6356777dc4a530415b42db57e3d1a"
+            "name": "ktor-utils-jvm-2.3.6.jar",
+            "hash": "008d9ecfa81283d5efa06c8ef3396b192bcbac17044c6f8d6f319e30fe1fcb23"
         },
         {
-            "path": "https://repo.maven.apache.org/maven2/io/ktor/ktor-io-jvm/2.3.3/ktor-io-jvm-2.3.3.jar",
+            "path": "https://repo.maven.apache.org/maven2/io/ktor/ktor-io-jvm/2.3.6/ktor-io-jvm-2.3.6.jar",
             "size": 811613,
-            "name": "ktor-io-jvm-2.3.3.jar",
-            "hash": "8652482da0ad197c3a080902e48d0f410803d8dc969cbebbf852aa716cec9b22"
+            "name": "ktor-io-jvm-2.3.6.jar",
+            "hash": "efcd9f4451ac800e9e4002ebd758f6627ff4fe84cb9e80a8c62220904d244021"
         },
         {
-            "path": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlinx/kotlinx-coroutines-jdk8/1.7.2/kotlinx-coroutines-jdk8-1.7.2.jar",
+            "path": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlinx/kotlinx-coroutines-jdk8/1.7.1/kotlinx-coroutines-jdk8-1.7.1.jar",
             "size": 953,
-            "name": "kotlinx-coroutines-jdk8-1.7.2.jar",
-            "hash": "c9a8f7f4df8d46e74a5efe0c587ecc4450b30ddf0230aa8d5ab8301ed640029e"
+            "name": "kotlinx-coroutines-jdk8-1.7.1.jar",
+            "hash": "b96f7145ba69b48f4940534cb8e19c7e159c45443e27c36821626148ba1710f2"
         },
         {
-            "path": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlinx/kotlinx-coroutines-core-jvm/1.7.2/kotlinx-coroutines-core-jvm-1.7.2.jar",
-            "size": 1550877,
-            "name": "kotlinx-coroutines-core-jvm-1.7.2.jar",
-            "hash": "754f3a0f11dcaa019bf17c4f67836b371eb4f37693ac8e7c3badf5c6b1308d7c"
+            "path": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlinx/kotlinx-coroutines-core-jvm/1.7.1/kotlinx-coroutines-core-jvm-1.7.1.jar",
+            "size": 1548432,
+            "name": "kotlinx-coroutines-core-jvm-1.7.1.jar",
+            "hash": "7496cffdd3eb10109acdda1c3212f6ac7815789e09380dc9e2ccdec496dba3fc"
         },
         {
-            "path": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlinx/kotlinx-coroutines-slf4j/1.7.2/kotlinx-coroutines-slf4j-1.7.2.jar",
+            "path": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlinx/kotlinx-coroutines-slf4j/1.7.1/kotlinx-coroutines-slf4j-1.7.1.jar",
             "size": 4373,
-            "name": "kotlinx-coroutines-slf4j-1.7.2.jar",
-            "hash": "412a0c1129f76f8dcbcc2c1c7de6483b3f6fcd70636ba5e2a3d523342910162c"
+            "name": "kotlinx-coroutines-slf4j-1.7.1.jar",
+            "hash": "fbb40ca7e55a78017feac897180be64f562a2eb781c6a3f6c9bb2ff88d92223f"
         },
         {
             "path": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-stdlib-jdk8/1.9.10/kotlin-stdlib-jdk8-1.9.10.jar",
@@ -795,9 +795,9 @@
         },
         {
             "path": "https://raw.githubusercontent.com/RuneSpawn/runespawn-hosting/master/snapshot/runelite-client-1.0.16-STABLE.jar",
-            "size": 18369986,
+            "size": 18369999,
             "name": "runelite-client-1.0.16-STABLE.jar",
-            "hash": "6c0e2d2a7a427105ed73f339eb3e6bb39c9b0ab1de758ab3d6ddb5944e18c1f5"
+            "hash": "00abedd65a881e95b593360bfcfe0ead71cc3ffa22e0867a91c7ff67f6d53e0e"
         }
     ]
 }
