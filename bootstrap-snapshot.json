@@ -70,8 +70,8 @@
         "kotlinx-serialization-protobuf-jvm-1.6.1.jar": "82e7e5b8101f7a78842f8b47aed783019f7efeac8123f8e3eaba70616e9c2565",
         "lwjgl-opengl-3.3.2.jar": "0ebaaf92d306c946ce9d3db25496b9068b7aab782b15966be2544b6a24838038",
         "pf4j-update-2.3.0.jar": "79c9d6240cda82c3d31ee7a5722b635a3d37ad58c124a4db0ddea40145c30f45",
-        "runespawn-public-plugins-1.0.16-STABLE.jar": "16a9519a411995aaf4b00c15c2d28cff800ec81833ed71f99475f9cb7bbe19aa",
-        "runespawn-game-api-jvm-0.1.0.jar": "cacca9e26c2c2453ce1c16633966a30515138738040509a5e4b5d5c9dffb11ac",
+        "runespawn-public-plugins-1.0.16-STABLE.jar": "4c048032337519ebc65a0aaa763797b2d61582dc5aeab0598ed6fae96fdabd22",
+        "runespawn-game-api-jvm-0.1.0.jar": "985ad755b81e75ee874b0d5e8cc1318523f18703de1f9c8e75951787f857e731",
         "jnativehook-2.2.2.jar": "2c7904423bc680af02d9ea9557ae233c35199e302d072773a9d0304b568acd41",
         "jgroups-5.2.2.Final.jar": "cfee5822e342c4018b9c71acc6aac0e23910f1b04725a0e44fe9f94ef2dc3f1e",
         "rsyntaxtextarea-3.1.2.jar": "5333ffa1166c54853d784943c5c44326a5e27e1613de2c07819ae12afe207097",
@@ -360,15 +360,15 @@
         },
         {
             "path": "https://raw.githubusercontent.com/RuneSpawn/runespawn-hosting/master/snapshot/runespawn-public-plugins-1.0.16-STABLE.jar",
-            "size": 24279,
+            "size": 23847,
             "name": "runespawn-public-plugins-1.0.16-STABLE.jar",
-            "hash": "16a9519a411995aaf4b00c15c2d28cff800ec81833ed71f99475f9cb7bbe19aa"
+            "hash": "4c048032337519ebc65a0aaa763797b2d61582dc5aeab0598ed6fae96fdabd22"
         },
         {
             "path": "https://raw.githubusercontent.com/RuneSpawn/runespawn-hosting/master/snapshot/runespawn-game-api-jvm-0.1.0.jar",
-            "size": 1108554,
+            "size": 1131237,
             "name": "runespawn-game-api-jvm-0.1.0.jar",
-            "hash": "cacca9e26c2c2453ce1c16633966a30515138738040509a5e4b5d5c9dffb11ac"
+            "hash": "985ad755b81e75ee874b0d5e8cc1318523f18703de1f9c8e75951787f857e731"
         },
         {
             "path": "https://repo.maven.apache.org/maven2/com/squareup/okio/okio/2.8.0/okio-2.8.0.jar",
