@@ -16,7 +16,7 @@
         "-XX:CompileThreshold=1500",
         "--add-opens=java.desktop/sun.awt=ALL-UNNAMED"
     ],
-    "buildCommit": "229cdb4d3b16e8a6510fe645996bf4e4fa7d4548",
+    "buildCommit": "160214ae5c01ded2b8a84514a76d638a38295048",
     "launcherJvm11Arguments": [
         "-XX:+DisableAttachMechanism",
         "-Drunelite.launcher.nojvm=true",
@@ -44,7 +44,7 @@
         "runespawn-http-api-client-1.0.16-STABLE.jar": "f3316012ba53ae1bdb7f9623b43f123f9a2feb918311cb4ce39af0c0c18c6d8f",
         "lwjgl-3.3.2-natives-windows-x86.jar": "21e6f5c1c68a171398daf7785ffb2797da89242f90d19e24236563f7c0b1f7e0",
         "kotlin-stdlib-jdk7-1.8.22.jar": "055f5cb24287fa106100995a7b47ab92126b81e832e875f5fa2cf0bd55693d0b",
-        "http-api-1.0.16-STABLE.jar": "188f24cd2256412d777f59738d023d86506ec61f7d230cdb2bc9caa5bcbfc283",
+        "http-api-1.0.16-STABLE.jar": "81959086d730bc250393b60b18556a9fa09332d727d4adbb62accc29f51115f0",
         "engine.io-client-1.0.0.jar": "191a5c2d777c22d258d414f94ff96a6620a93a38beec29a63c2c172794c87f0f",
         "rlawt-1.4.jar": "1efad07ade0ca6231c9870718f318950cce2e1c8da8b91e317067b616ce14a36",
         "lwjgl-opengl-3.3.2-natives-linux.jar": "8956bca64d2851dc14ec6bfbfc55ce35fdff89270b5f2a3c9f70aea77f6d1e17",
@@ -207,9 +207,9 @@
         },
         {
             "path": "https://raw.githubusercontent.com/RuneSpawn/runespawn-hosting/master/snapshot/http-api-1.0.16-STABLE.jar",
-            "size": 97147,
+            "size": 97146,
             "name": "http-api-1.0.16-STABLE.jar",
-            "hash": "188f24cd2256412d777f59738d023d86506ec61f7d230cdb2bc9caa5bcbfc283"
+            "hash": "81959086d730bc250393b60b18556a9fa09332d727d4adbb62accc29f51115f0"
         },
         {
             "path": "https://raw.githubusercontent.com/RuneSpawn/runespawn-hosting/master/snapshot/runespawn-http-api-client-1.0.16-STABLE.jar",
