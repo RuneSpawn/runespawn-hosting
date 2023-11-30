@@ -16,7 +16,7 @@
         "-XX:CompileThreshold=1500",
         "--add-opens=java.desktop/sun.awt=ALL-UNNAMED"
     ],
-    "buildCommit": "04a96a9b9855a9d79956a26e95eaf781a4415cb3",
+    "buildCommit": "01145ef83b1c9dea463fdc4e6c788fbc053c2cc1",
     "launcherJvm11Arguments": [
         "-XX:+DisableAttachMechanism",
         "-Drunelite.launcher.nojvm=true",
@@ -42,10 +42,10 @@
         "kotlinx-coroutines-core-jvm-1.7.1.jar": "7496cffdd3eb10109acdda1c3212f6ac7815789e09380dc9e2ccdec496dba3fc",
         "commons-lang3-3.11.jar": "4ee380259c068d1dbe9e84ab52186f2acd65de067ec09beff731fca1697fdb16",
         "ktor-serialization-jvm-2.3.6.jar": "52d1b88873224b3d551512deb0ba8ec8ceccd05693a1bd603d976c85888550b3",
-        "runespawn-http-api-client-1.0.16-STABLE.jar": "01900ca96a0277a9f75e428f2624c55f9cb72c6ab67aa215aafd5ca3f7a304d1",
+        "runespawn-http-api-client-1.0.16-STABLE.jar": "4bbe8ad99fb6498b8314dddded1496c5b15f18b14ad6e46e9a0e3f28c5b8eabb",
         "lwjgl-3.3.2-natives-windows-x86.jar": "21e6f5c1c68a171398daf7785ffb2797da89242f90d19e24236563f7c0b1f7e0",
         "kotlin-stdlib-jdk7-1.8.22.jar": "055f5cb24287fa106100995a7b47ab92126b81e832e875f5fa2cf0bd55693d0b",
-        "http-api-1.0.16-STABLE.jar": "0085cac4b7e27331bd3bf463a73964135fb640d2ed4814463b7a5c720b27e830",
+        "http-api-1.0.16-STABLE.jar": "1258893a2815d7d3cf622022292785afdf5fa2dc07fb160c48023b85b75afb33",
         "engine.io-client-1.0.0.jar": "191a5c2d777c22d258d414f94ff96a6620a93a38beec29a63c2c172794c87f0f",
         "rlawt-1.4.jar": "1efad07ade0ca6231c9870718f318950cce2e1c8da8b91e317067b616ce14a36",
         "lwjgl-opengl-3.3.2-natives-linux.jar": "8956bca64d2851dc14ec6bfbfc55ce35fdff89270b5f2a3c9f70aea77f6d1e17",
@@ -71,7 +71,7 @@
         "lwjgl-opengl-3.3.2.jar": "0ebaaf92d306c946ce9d3db25496b9068b7aab782b15966be2544b6a24838038",
         "pf4j-update-2.3.0.jar": "79c9d6240cda82c3d31ee7a5722b635a3d37ad58c124a4db0ddea40145c30f45",
         "runespawn-public-plugins-1.0.16-STABLE.jar": "f0dc6067edd960848c038f8ba6a1594089d08e4c99d061b22a8465e88c9eef7d",
-        "runespawn-game-api-jvm-0.1.0.jar": "9750f3a5d4202c75e22dc435ff390be4c3966a1b0fd1b0ee133eb1ef43f709fe",
+        "runespawn-game-api-jvm-0.1.0.jar": "7460161232199a2839fd43b473cc4b499705fa9914d4d5b9e524dedb893756b9",
         "jnativehook-2.2.2.jar": "2c7904423bc680af02d9ea9557ae233c35199e302d072773a9d0304b568acd41",
         "jgroups-5.2.2.Final.jar": "cfee5822e342c4018b9c71acc6aac0e23910f1b04725a0e44fe9f94ef2dc3f1e",
         "rsyntaxtextarea-3.1.2.jar": "5333ffa1166c54853d784943c5c44326a5e27e1613de2c07819ae12afe207097",
@@ -212,7 +212,7 @@
             "path": "https://raw.githubusercontent.com/RuneSpawn/runespawn-hosting/master/snapshot/http-api-1.0.16-STABLE.jar",
             "size": 97146,
             "name": "http-api-1.0.16-STABLE.jar",
-            "hash": "0085cac4b7e27331bd3bf463a73964135fb640d2ed4814463b7a5c720b27e830"
+            "hash": "1258893a2815d7d3cf622022292785afdf5fa2dc07fb160c48023b85b75afb33"
         },
         {
             "path": "https://raw.githubusercontent.com/RuneSpawn/runespawn-hosting/master/snapshot/runespawn-public-plugins-1.0.16-STABLE.jar",
@@ -222,9 +222,9 @@
         },
         {
             "path": "https://raw.githubusercontent.com/RuneSpawn/runespawn-hosting/master/snapshot/runespawn-http-api-client-1.0.16-STABLE.jar",
-            "size": 27350,
+            "size": 30664,
             "name": "runespawn-http-api-client-1.0.16-STABLE.jar",
-            "hash": "01900ca96a0277a9f75e428f2624c55f9cb72c6ab67aa215aafd5ca3f7a304d1"
+            "hash": "4bbe8ad99fb6498b8314dddded1496c5b15f18b14ad6e46e9a0e3f28c5b8eabb"
         },
         {
             "path": "https://raw.githubusercontent.com/RuneSpawn/runespawn-hosting/master/snapshot/runelite-jshell-1.0.16-STABLE.jar",
@@ -366,9 +366,9 @@
         },
         {
             "path": "https://raw.githubusercontent.com/RuneSpawn/runespawn-hosting/master/snapshot/runespawn-game-api-jvm-0.1.0.jar",
-            "size": 1132742,
+            "size": 1135195,
             "name": "runespawn-game-api-jvm-0.1.0.jar",
-            "hash": "9750f3a5d4202c75e22dc435ff390be4c3966a1b0fd1b0ee133eb1ef43f709fe"
+            "hash": "7460161232199a2839fd43b473cc4b499705fa9914d4d5b9e524dedb893756b9"
         },
         {
             "path": "https://repo.maven.apache.org/maven2/com/squareup/okio/okio/2.8.0/okio-2.8.0.jar",
