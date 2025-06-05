@@ -32,7 +32,7 @@
     "autocomplete-3.1.1.jar": "c28575ea4256ce6fce57e820fd467b851c2bd4d816c8c51c24699ef832f91f7d",
     "bcprov-jdk15on-1.59.jar": "1c31e44e331d25e46d293b3e8ee2d07028a67db011e74cb2443285aed1d59c85",
     "cache-1.10.52-SNAPSHOT.jar": "360ac0dde47613df079dd3a64b5ed54ab476cfcda62b23882c405e1a1d817732",
-    "client-1.10.52-SNAPSHOT.jar": "0e9684ddb74fb9ab20064bde8871b171495cfb01a54484ef3d9906bb98c6953a",
+    "client-1.10.52-SNAPSHOT.jar": "3a1f6f58aef63096d375e609f44952b2a7ff3d23b0ef61cc40a25daef2ac5eb2",
     "commons-cli-1.3.1.jar": "3a2f057041aa6a8813f5b59b695f726c5e85014a703d208d7e1689098e92d8c0",
     "commons-compress-1.10.jar": "807c95293e41e8159477442077da6d0962a7f486d4b980be61f60a8db9cb290f",
     "commons-lang3-3.7.jar": "6e8dc31e046508d9953c96534edf0c2e0bfe6f468966b5b842b3f87e43b6a847",
@@ -45,7 +45,7 @@
     "guava-23.2-jre.jar": "5be9a7d05ba0ccd74708bc8018ae412255f85843c0b92302e9b9befa6ed52564",
     "guice-4.1.0-no_aop.jar": "9264c6931c431e928dc64adc842584d5f57d17b2f3aff29221f2b3fdea673dad",
     "http-api-1.2.16.jar": "5209f2bc6ea12267d45a3f3f562968b0688d88df5a7becd3a2a5f590ea025116",
-    "injected-client-1.10.52-SNAPSHOT.jar": "dae5b54695883e475233023029b60592963845d84212ef83ca120170143b18de",
+    "injected-client-1.10.52-SNAPSHOT.jar": "0f49cd81b4986480a981387bcb6c319dcfc233c4aa33d327057854711b75548f",
     "j2objc-annotations-1.1.jar": "2994a7eb78f2710bd3d3bfb639b2c94e219cedac0d4d084d516e78c16dddecf6",
     "javax.inject-1.jar": "91c77044a50c481636c32d916fd89c9118a72195390452c81065080f957de7ff",
     "jna-5.9.0.jar": "eafcc780b445434d3c5ae7fa2fb6665de1a7560d537d2c408a8e80cd14d27161",
@@ -152,343 +152,343 @@
   "projectVersion": "1.10.52-SNAPSHOT",
   "files": [
     {
-      "name": "animal-sniffer-annotations",
+      "name": "animal-sniffer-annotations-1.14",
       "size": "3482",
       "path": "https://raw.githubusercontent.com/RuneSpawn/runespawn-hosting/master/stable/animal-sniffer-annotations-1.14.jar",
       "hash": "2068320bd6bad744c3673ab048f67e30bef8f518996fa380033556600669905d"
     },
     {
-      "name": "annotations",
+      "name": "annotations-13.0",
       "size": "17536",
       "path": "https://raw.githubusercontent.com/RuneSpawn/runespawn-hosting/master/stable/annotations-13.0.jar",
       "hash": "ace2a10dc8e2d5fd34925ecac03e4988b2c0f851650c94b8cef49ba1bd111478"
     },
     {
-      "name": "antlr4-runtime",
+      "name": "antlr4-runtime-4.13.1",
       "size": "326305",
       "path": "https://raw.githubusercontent.com/RuneSpawn/runespawn-hosting/master/stable/antlr4-runtime-4.13.1.jar",
       "hash": "54665d2838cc66458343468efc539e454fc95b46a8a04b13c6ac43fc9be63505"
     },
     {
-      "name": "aopalliance",
+      "name": "aopalliance-1.0",
       "size": "4467",
       "path": "https://raw.githubusercontent.com/RuneSpawn/runespawn-hosting/master/stable/aopalliance-1.0.jar",
       "hash": "0addec670fedcd3f113c5c8091d783280d23f75e3acb841b61a9cdb079376a08"
     },
     {
-      "name": "autocomplete",
+      "name": "autocomplete-3.1.1",
       "size": "153177",
       "path": "https://raw.githubusercontent.com/RuneSpawn/runespawn-hosting/master/stable/autocomplete-3.1.1.jar",
       "hash": "c28575ea4256ce6fce57e820fd467b851c2bd4d816c8c51c24699ef832f91f7d"
     },
     {
-      "name": "bcprov-jdk15on",
+      "name": "bcprov-jdk15on-1.59",
       "size": "4092400",
       "path": "https://raw.githubusercontent.com/RuneSpawn/runespawn-hosting/master/stable/bcprov-jdk15on-1.59.jar",
       "hash": "1c31e44e331d25e46d293b3e8ee2d07028a67db011e74cb2443285aed1d59c85"
     },
     {
-      "name": "cache-1.10.52",
+      "name": "cache-1.10.52-SNAPSHOT",
       "size": "459491",
       "path": "https://raw.githubusercontent.com/RuneSpawn/runespawn-hosting/master/stable/cache-1.10.52-SNAPSHOT.jar",
       "hash": "360ac0dde47613df079dd3a64b5ed54ab476cfcda62b23882c405e1a1d817732"
     },
     {
-      "name": "client-1.10.52",
-      "size": "7189467",
+      "name": "client-1.10.52-SNAPSHOT",
+      "size": "7189464",
       "path": "https://raw.githubusercontent.com/RuneSpawn/runespawn-hosting/master/stable/client-1.10.52-SNAPSHOT.jar",
-      "hash": "0e9684ddb74fb9ab20064bde8871b171495cfb01a54484ef3d9906bb98c6953a"
+      "hash": "3a1f6f58aef63096d375e609f44952b2a7ff3d23b0ef61cc40a25daef2ac5eb2"
     },
     {
-      "name": "commons-cli",
+      "name": "commons-cli-1.3.1",
       "size": "52988",
       "path": "https://raw.githubusercontent.com/RuneSpawn/runespawn-hosting/master/stable/commons-cli-1.3.1.jar",
       "hash": "3a2f057041aa6a8813f5b59b695f726c5e85014a703d208d7e1689098e92d8c0"
     },
     {
-      "name": "commons-compress",
+      "name": "commons-compress-1.10",
       "size": "409475",
       "path": "https://raw.githubusercontent.com/RuneSpawn/runespawn-hosting/master/stable/commons-compress-1.10.jar",
       "hash": "807c95293e41e8159477442077da6d0962a7f486d4b980be61f60a8db9cb290f"
     },
     {
-      "name": "commons-lang3",
+      "name": "commons-lang3-3.7",
       "size": "499634",
       "path": "https://raw.githubusercontent.com/RuneSpawn/runespawn-hosting/master/stable/commons-lang3-3.7.jar",
       "hash": "6e8dc31e046508d9953c96534edf0c2e0bfe6f468966b5b842b3f87e43b6a847"
     },
     {
-      "name": "commons-text",
+      "name": "commons-text-1.2",
       "size": "136544",
       "path": "https://raw.githubusercontent.com/RuneSpawn/runespawn-hosting/master/stable/commons-text-1.2.jar",
       "hash": "d4a57bbc1627da7c391308fd0fe910b83170fb66afd117236a5b111d2db1590b"
     },
     {
-      "name": "discord",
+      "name": "discord-1.4",
       "size": "681590",
       "path": "https://raw.githubusercontent.com/RuneSpawn/runespawn-hosting/master/stable/discord-1.4.jar",
       "hash": "6409723fd13496386dfb1335a9794dc0919db6132522f2b7486d6734fc5df6e5"
     },
     {
-      "name": "error_prone_annotations",
+      "name": "error_prone_annotations-2.0.18",
       "size": "12078",
       "path": "https://raw.githubusercontent.com/RuneSpawn/runespawn-hosting/master/stable/error_prone_annotations-2.0.18.jar",
       "hash": "cb4cfad870bf563a07199f3ebea5763f0dec440fcda0b318640b1feaa788656b"
     },
     {
-      "name": "flatlaf-3.2.5",
+      "name": "flatlaf-3.2.5-rl4",
       "size": "792432",
       "path": "https://raw.githubusercontent.com/RuneSpawn/runespawn-hosting/master/stable/flatlaf-3.2.5-rl4.jar",
       "hash": "c518fa0427c7f6029b115541c0dbcf633fc89a65467f8472c52bb71fe18b559c"
     },
     {
-      "name": "flatlaf-extras-3.2.5",
+      "name": "flatlaf-extras-3.2.5-rl4",
       "size": "114738",
       "path": "https://raw.githubusercontent.com/RuneSpawn/runespawn-hosting/master/stable/flatlaf-extras-3.2.5-rl4.jar",
       "hash": "8ed1c0ecc09bdaf7224e3750bf3fa29266295f902d3ceeaa1380b26c888b761f"
     },
     {
-      "name": "gson",
+      "name": "gson-2.8.5",
       "size": "241622",
       "path": "https://raw.githubusercontent.com/RuneSpawn/runespawn-hosting/master/stable/gson-2.8.5.jar",
       "hash": "233a0149fc365c9f6edbd683cfe266b19bdc773be98eabdaf6b3c924b48e7d81"
     },
     {
-      "name": "guava-23.2",
+      "name": "guava-23.2-jre",
       "size": "2649860",
       "path": "https://raw.githubusercontent.com/RuneSpawn/runespawn-hosting/master/stable/guava-23.2-jre.jar",
       "hash": "5be9a7d05ba0ccd74708bc8018ae412255f85843c0b92302e9b9befa6ed52564"
     },
     {
-      "name": "guice-4.1.0",
+      "name": "guice-4.1.0-no_aop",
       "size": "428603",
       "path": "https://raw.githubusercontent.com/RuneSpawn/runespawn-hosting/master/stable/guice-4.1.0-no_aop.jar",
       "hash": "9264c6931c431e928dc64adc842584d5f57d17b2f3aff29221f2b3fdea673dad"
     },
     {
-      "name": "http-api",
+      "name": "http-api-1.2.16",
       "size": "42724",
       "path": "https://raw.githubusercontent.com/RuneSpawn/runespawn-hosting/master/stable/http-api-1.2.16.jar",
       "hash": "5209f2bc6ea12267d45a3f3f562968b0688d88df5a7becd3a2a5f590ea025116"
     },
     {
-      "name": "injected-client-1.10.52",
-      "size": "1373518",
+      "name": "injected-client-1.10.52-SNAPSHOT",
+      "size": "1370533",
       "path": "https://raw.githubusercontent.com/RuneSpawn/runespawn-hosting/master/stable/injected-client-1.10.52-SNAPSHOT.jar",
-      "hash": "dae5b54695883e475233023029b60592963845d84212ef83ca120170143b18de"
+      "hash": "0f49cd81b4986480a981387bcb6c319dcfc233c4aa33d327057854711b75548f"
     },
     {
-      "name": "j2objc-annotations",
+      "name": "j2objc-annotations-1.1",
       "size": "8782",
       "path": "https://raw.githubusercontent.com/RuneSpawn/runespawn-hosting/master/stable/j2objc-annotations-1.1.jar",
       "hash": "2994a7eb78f2710bd3d3bfb639b2c94e219cedac0d4d084d516e78c16dddecf6"
     },
     {
-      "name": "javax.inject",
+      "name": "javax.inject-1",
       "size": "2497",
       "path": "https://raw.githubusercontent.com/RuneSpawn/runespawn-hosting/master/stable/javax.inject-1.jar",
       "hash": "91c77044a50c481636c32d916fd89c9118a72195390452c81065080f957de7ff"
     },
     {
-      "name": "jna",
+      "name": "jna-5.9.0",
       "size": "1729586",
       "path": "https://raw.githubusercontent.com/RuneSpawn/runespawn-hosting/master/stable/jna-5.9.0.jar",
       "hash": "eafcc780b445434d3c5ae7fa2fb6665de1a7560d537d2c408a8e80cd14d27161"
     },
     {
-      "name": "jna-platform",
+      "name": "jna-platform-5.9.0",
       "size": "1343236",
       "path": "https://raw.githubusercontent.com/RuneSpawn/runespawn-hosting/master/stable/jna-platform-5.9.0.jar",
       "hash": "1903bc6d87f3ab92023957b91f45a9c8eb3515bad030356ce977201e5141b724"
     },
     {
-      "name": "jopt-simple",
+      "name": "jopt-simple-5.0.1",
       "size": "78826",
       "path": "https://raw.githubusercontent.com/RuneSpawn/runespawn-hosting/master/stable/jopt-simple-5.0.1.jar",
       "hash": "9f0c8d50fa4b79b6ff1502dbec8502179d6b9497cacbe17a13074001aed537ec"
     },
     {
-      "name": "jshell-1.10.52",
+      "name": "jshell-1.10.52-SNAPSHOT",
       "size": "25116",
       "path": "https://raw.githubusercontent.com/RuneSpawn/runespawn-hosting/master/stable/jshell-1.10.52-SNAPSHOT.jar",
       "hash": "fe29904ec071c1e48a55daf2cf6cc9c96b2322239979de9f5ec95bbf5b4a1c7a"
     },
     {
-      "name": "json",
+      "name": "json-20220320",
       "size": "70939",
       "path": "https://raw.githubusercontent.com/RuneSpawn/runespawn-hosting/master/stable/json-20220320.jar",
       "hash": "1edf7fcea79a16b8dfdd3bc988ddec7f8908b1f7762fdf00d39acb037542747a"
     },
     {
-      "name": "jsr305",
+      "name": "jsr305-3.0.2",
       "size": "19936",
       "path": "https://raw.githubusercontent.com/RuneSpawn/runespawn-hosting/master/stable/jsr305-3.0.2.jar",
       "hash": "766ad2a0783f2687962c8ad74ceecc38a28b9f72a2d085ee438b7813e928d0c7"
     },
     {
-      "name": "jsvg",
+      "name": "jsvg-1.2.0",
       "size": "499132",
       "path": "https://raw.githubusercontent.com/RuneSpawn/runespawn-hosting/master/stable/jsvg-1.2.0.jar",
       "hash": "912f37d85deaaf5b747700f5bd3761a93b14a5161900e7436cff386b6176118a"
     },
     {
-      "name": "kotlin-stdlib",
+      "name": "kotlin-stdlib-2.0.0",
       "size": "1729731",
       "path": "https://raw.githubusercontent.com/RuneSpawn/runespawn-hosting/master/stable/kotlin-stdlib-2.0.0.jar",
       "hash": "240938c4aab8e73e888703e3e7d3f87383ffe5bd536d6d5e3c100d4cd0379fcf"
     },
     {
-      "name": "logback-classic",
+      "name": "logback-classic-1.2.9",
       "size": "233855",
       "path": "https://raw.githubusercontent.com/RuneSpawn/runespawn-hosting/master/stable/logback-classic-1.2.9.jar",
       "hash": "ad745cc243805800d1ebbf5b7deba03b37c95885e6bce71335a73f7d6d0f14ee"
     },
     {
-      "name": "logback-core",
+      "name": "logback-core-1.2.9",
       "size": "454201",
       "path": "https://raw.githubusercontent.com/RuneSpawn/runespawn-hosting/master/stable/logback-core-1.2.9.jar",
       "hash": "4a9ef7ed809b1fbc6992bf87d404087c247e7a9766e25bb84377b58ed5c9eb58"
     },
     {
-      "name": "lwjgl-3.3.2-natives",
+      "name": "lwjgl-3.3.2-natives-linux",
       "size": "114144",
       "path": "https://raw.githubusercontent.com/RuneSpawn/runespawn-hosting/master/stable/lwjgl-3.3.2-natives-linux.jar",
       "hash": "89f53089a5f8a983db25140a1c94c72fe2a8f56feb6ddb597f55b8329ce5b400"
     },
     {
-      "name": "lwjgl-3.3.2-natives-macos",
+      "name": "lwjgl-3.3.2-natives-macos-arm64",
       "size": "48270",
       "path": "https://raw.githubusercontent.com/RuneSpawn/runespawn-hosting/master/stable/lwjgl-3.3.2-natives-macos-arm64.jar",
       "hash": "ebb8474ad3c19b906649ac41cef62314fd9b355cea5509d9be0c8728db7a6c38"
     },
     {
-      "name": "lwjgl-3.3.2-natives",
+      "name": "lwjgl-3.3.2-natives-macos",
       "size": "60240",
       "path": "https://raw.githubusercontent.com/RuneSpawn/runespawn-hosting/master/stable/lwjgl-3.3.2-natives-macos.jar",
       "hash": "62603b9a92c789f0beb8ec25052f278d6f9ce02c6687c8f1afbc7483da54131a"
     },
     {
-      "name": "lwjgl-3.3.2-natives-windows",
+      "name": "lwjgl-3.3.2-natives-windows-arm64",
       "size": "133200",
       "path": "https://raw.githubusercontent.com/RuneSpawn/runespawn-hosting/master/stable/lwjgl-3.3.2-natives-windows-arm64.jar",
       "hash": "1575d4e2e789b411b3a193ac04a2c2d53dbc504de80a560578191c1c7d79e5ee"
     },
     {
-      "name": "lwjgl-3.3.2-natives-windows",
+      "name": "lwjgl-3.3.2-natives-windows-x86",
       "size": "139365",
       "path": "https://raw.githubusercontent.com/RuneSpawn/runespawn-hosting/master/stable/lwjgl-3.3.2-natives-windows-x86.jar",
       "hash": "21e6f5c1c68a171398daf7785ffb2797da89242f90d19e24236563f7c0b1f7e0"
     },
     {
-      "name": "lwjgl-3.3.2-natives",
+      "name": "lwjgl-3.3.2-natives-windows",
       "size": "164993",
       "path": "https://raw.githubusercontent.com/RuneSpawn/runespawn-hosting/master/stable/lwjgl-3.3.2-natives-windows.jar",
       "hash": "ebc65354b64a33659cc642446dc15c6d62a4bd0ae15c9a6a4a3adbcd71f1f690"
     },
     {
-      "name": "lwjgl",
+      "name": "lwjgl-3.3.2",
       "size": "786196",
       "path": "https://raw.githubusercontent.com/RuneSpawn/runespawn-hosting/master/stable/lwjgl-3.3.2.jar",
       "hash": "f8016606e74f3cafd63eae07b1331f903f999c9f40726c838399a144c3809217"
     },
     {
-      "name": "lwjgl-opencl",
+      "name": "lwjgl-opencl-3.3.2",
       "size": "238152",
       "path": "https://raw.githubusercontent.com/RuneSpawn/runespawn-hosting/master/stable/lwjgl-opencl-3.3.2.jar",
       "hash": "da0392abcea5121f5edd9042012600584ac628f4a18fcf5c1bce60f3f9f6a33a"
     },
     {
-      "name": "lwjgl-opengl-3.3.2-natives",
+      "name": "lwjgl-opengl-3.3.2-natives-linux",
       "size": "80464",
       "path": "https://raw.githubusercontent.com/RuneSpawn/runespawn-hosting/master/stable/lwjgl-opengl-3.3.2-natives-linux.jar",
       "hash": "8956bca64d2851dc14ec6bfbfc55ce35fdff89270b5f2a3c9f70aea77f6d1e17"
     },
     {
-      "name": "lwjgl-opengl-3.3.2-natives-macos",
+      "name": "lwjgl-opengl-3.3.2-natives-macos-arm64",
       "size": "42490",
       "path": "https://raw.githubusercontent.com/RuneSpawn/runespawn-hosting/master/stable/lwjgl-opengl-3.3.2-natives-macos-arm64.jar",
       "hash": "3120ecbcccf31f36064f260fa0127b4a359097a294ac5b3e7675d1867168f2e6"
     },
     {
-      "name": "lwjgl-opengl-3.3.2-natives",
+      "name": "lwjgl-opengl-3.3.2-natives-macos",
       "size": "41485",
       "path": "https://raw.githubusercontent.com/RuneSpawn/runespawn-hosting/master/stable/lwjgl-opengl-3.3.2-natives-macos.jar",
       "hash": "0c6a78c4e696deaddefd8346b4c13883704b36a890003075a33ccba2d1a13c2d"
     },
     {
-      "name": "lwjgl-opengl-3.3.2-natives-windows",
+      "name": "lwjgl-opengl-3.3.2-natives-windows-arm64",
       "size": "83132",
       "path": "https://raw.githubusercontent.com/RuneSpawn/runespawn-hosting/master/stable/lwjgl-opengl-3.3.2-natives-windows-arm64.jar",
       "hash": "f8ab8ceac5a5b3e53f59ef4c717c3d4434cb7fa33969f240489d539f572c33b0"
     },
     {
-      "name": "lwjgl-opengl-3.3.2-natives-windows",
+      "name": "lwjgl-opengl-3.3.2-natives-windows-x86",
       "size": "88610",
       "path": "https://raw.githubusercontent.com/RuneSpawn/runespawn-hosting/master/stable/lwjgl-opengl-3.3.2-natives-windows-x86.jar",
       "hash": "c3a32053bb4c042489f40936926487cdaf33089185b847fb298b84a62b5703ff"
     },
     {
-      "name": "lwjgl-opengl-3.3.2-natives",
+      "name": "lwjgl-opengl-3.3.2-natives-windows",
       "size": "101530",
       "path": "https://raw.githubusercontent.com/RuneSpawn/runespawn-hosting/master/stable/lwjgl-opengl-3.3.2-natives-windows.jar",
       "hash": "0275a42f91c6bc5f08bdc1f7c7e263058cc99dbed7c710a025e4ad175e9a0edd"
     },
     {
-      "name": "lwjgl-opengl",
+      "name": "lwjgl-opengl-3.3.2",
       "size": "928871",
       "path": "https://raw.githubusercontent.com/RuneSpawn/runespawn-hosting/master/stable/lwjgl-opengl-3.3.2.jar",
       "hash": "0ebaaf92d306c946ce9d3db25496b9068b7aab782b15966be2544b6a24838038"
     },
     {
-      "name": "okhttp",
+      "name": "okhttp-3.14.9",
       "size": "430488",
       "path": "https://raw.githubusercontent.com/RuneSpawn/runespawn-hosting/master/stable/okhttp-3.14.9.jar",
       "hash": "2570fab55515cbf881d7a4ceef49fc515490bc027057e666776a2832465aeca0"
     },
     {
-      "name": "okio",
+      "name": "okio-1.17.2",
       "size": "91980",
       "path": "https://raw.githubusercontent.com/RuneSpawn/runespawn-hosting/master/stable/okio-1.17.2.jar",
       "hash": "f80ce42d2ffac47ad4c47e1d6f980d604d247ceb1a886705cf4581ab0c9fe2b8"
     },
     {
-      "name": "protobuf-javalite",
+      "name": "protobuf-javalite-3.21.12",
       "size": "703181",
       "path": "https://raw.githubusercontent.com/RuneSpawn/runespawn-hosting/master/stable/protobuf-javalite-3.21.12.jar",
       "hash": "cf678ab3fbc992f4b4654a86c03557c21904d635202b67688fcb2eca442c2d40"
     },
     {
-      "name": "rlawt",
+      "name": "rlawt-1.5",
       "size": "224334",
       "path": "https://raw.githubusercontent.com/RuneSpawn/runespawn-hosting/master/stable/rlawt-1.5.jar",
       "hash": "7cbd7be5f54ed884c6c8668c6b76c69a42d2e6bcdc5161d9e5cb5a29ef058831"
     },
     {
-      "name": "rsyntaxtextarea",
+      "name": "rsyntaxtextarea-3.1.2",
       "size": "1209918",
       "path": "https://raw.githubusercontent.com/RuneSpawn/runespawn-hosting/master/stable/rsyntaxtextarea-3.1.2.jar",
       "hash": "5333ffa1166c54853d784943c5c44326a5e27e1613de2c07819ae12afe207097"
     },
     {
-      "name": "runelite-api-1.10.52",
+      "name": "runelite-api-1.10.52-SNAPSHOT",
       "size": "1406952",
       "path": "https://raw.githubusercontent.com/RuneSpawn/runespawn-hosting/master/stable/runelite-api-1.10.52-SNAPSHOT.jar",
       "hash": "71b6deff66e5a8319daadbc5177bd937bd6f8adeb398705486a9230e2c3ebc8e"
     },
     {
-      "name": "runescape-api-1.10.52",
+      "name": "runescape-api-1.10.52-SNAPSHOT",
       "size": "5611",
       "path": "https://raw.githubusercontent.com/RuneSpawn/runespawn-hosting/master/stable/runescape-api-1.10.52-SNAPSHOT.jar",
       "hash": "688e4405c616182fccac45dc0fd48495a7ed32d18e50ec3f8fb37b4b52808e17"
     },
     {
-      "name": "slf4j-api",
+      "name": "slf4j-api-1.7.25",
       "size": "41203",
       "path": "https://raw.githubusercontent.com/RuneSpawn/runespawn-hosting/master/stable/slf4j-api-1.7.25.jar",
       "hash": "18c4a0095d5c1da6b817592e767bb23d29dd2f560ad74df75ff3961dbde25b79"
     },
     {
-      "name": "slf4j-simple",
+      "name": "slf4j-simple-1.7.25",
       "size": "15257",
       "path": "https://raw.githubusercontent.com/RuneSpawn/runespawn-hosting/master/stable/slf4j-simple-1.7.25.jar",
       "hash": "0966e86fffa5be52d3d9e7b89dd674d98a03eed0a454fbaf7c1bd9493bd9d874"
