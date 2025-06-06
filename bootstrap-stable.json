@@ -45,7 +45,7 @@
     "guava-23.2-jre.jar": "5be9a7d05ba0ccd74708bc8018ae412255f85843c0b92302e9b9befa6ed52564",
     "guice-4.1.0-no_aop.jar": "9264c6931c431e928dc64adc842584d5f57d17b2f3aff29221f2b3fdea673dad",
     "http-api-1.2.16.jar": "5209f2bc6ea12267d45a3f3f562968b0688d88df5a7becd3a2a5f590ea025116",
-    "injected-client-1.10.52-SNAPSHOT.jar": "9e5bf6fcd9ec91fa383395e40bc2accde6c9a87f622463330d7b5841305c4e6d",
+    "injected-client-1.10.52-SNAPSHOT.jar": "127864b2ef46c9c0e7754f0d0c76e2b34e2931849b9ed8ab168b353ec60f0071",
     "j2objc-annotations-1.1.jar": "2994a7eb78f2710bd3d3bfb639b2c94e219cedac0d4d084d516e78c16dddecf6",
     "javax.inject-1.jar": "91c77044a50c481636c32d916fd89c9118a72195390452c81065080f957de7ff",
     "jna-5.9.0.jar": "eafcc780b445434d3c5ae7fa2fb6665de1a7560d537d2c408a8e80cd14d27161",
@@ -273,9 +273,9 @@
     },
     {
       "name": "injected-client-1.10.52-SNAPSHOT",
-      "size": "1396572",
+      "size": "1396570",
       "path": "https://raw.githubusercontent.com/RuneSpawn/runespawn-hosting/master/stable/injected-client-1.10.52-SNAPSHOT.jar",
-      "hash": "9e5bf6fcd9ec91fa383395e40bc2accde6c9a87f622463330d7b5841305c4e6d"
+      "hash": "127864b2ef46c9c0e7754f0d0c76e2b34e2931849b9ed8ab168b353ec60f0071"
     },
     {
       "name": "j2objc-annotations-1.1",
