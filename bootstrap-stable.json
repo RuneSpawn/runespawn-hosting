@@ -32,7 +32,7 @@
     "autocomplete-3.1.1.jar": "c28575ea4256ce6fce57e820fd467b851c2bd4d816c8c51c24699ef832f91f7d",
     "bcprov-jdk15on-1.59.jar": "1c31e44e331d25e46d293b3e8ee2d07028a67db011e74cb2443285aed1d59c85",
     "cache-1.10.52-SNAPSHOT.jar": "360ac0dde47613df079dd3a64b5ed54ab476cfcda62b23882c405e1a1d817732",
-    "client-1.10.52-SNAPSHOT.jar": "199cf8e483c75d6e758626447b592815a96adc618b6c26b70f1d9de45e947fb6",
+    "client-1.10.52-SNAPSHOT.jar": "ab5807e4ba510ff25832b705814f055dac2164b12d71cc55d119ccc596f5b23d",
     "commons-cli-1.3.1.jar": "3a2f057041aa6a8813f5b59b695f726c5e85014a703d208d7e1689098e92d8c0",
     "commons-compress-1.10.jar": "807c95293e41e8159477442077da6d0962a7f486d4b980be61f60a8db9cb290f",
     "commons-lang3-3.7.jar": "6e8dc31e046508d9953c96534edf0c2e0bfe6f468966b5b842b3f87e43b6a847",
@@ -45,7 +45,7 @@
     "guava-23.2-jre.jar": "5be9a7d05ba0ccd74708bc8018ae412255f85843c0b92302e9b9befa6ed52564",
     "guice-4.1.0-no_aop.jar": "9264c6931c431e928dc64adc842584d5f57d17b2f3aff29221f2b3fdea673dad",
     "http-api-1.2.16.jar": "5209f2bc6ea12267d45a3f3f562968b0688d88df5a7becd3a2a5f590ea025116",
-    "injected-client-1.10.52-SNAPSHOT.jar": "7cf73f76437b5b19dee885710f85ebd7f37e446a85a8961caad4163d62782baa",
+    "injected-client-1.10.52-SNAPSHOT.jar": "3ffa968308723baf1983bd394e74a1b1d9c4c79898d66305e56107b15c1f9ed6",
     "j2objc-annotations-1.1.jar": "2994a7eb78f2710bd3d3bfb639b2c94e219cedac0d4d084d516e78c16dddecf6",
     "javax.inject-1.jar": "91c77044a50c481636c32d916fd89c9118a72195390452c81065080f957de7ff",
     "jna-5.9.0.jar": "eafcc780b445434d3c5ae7fa2fb6665de1a7560d537d2c408a8e80cd14d27161",
@@ -197,7 +197,7 @@
       "name": "client-1.10.52-SNAPSHOT",
       "size": "7189524",
       "path": "https://raw.githubusercontent.com/RuneSpawn/runespawn-hosting/master/stable/client-1.10.52-SNAPSHOT.jar",
-      "hash": "199cf8e483c75d6e758626447b592815a96adc618b6c26b70f1d9de45e947fb6"
+      "hash": "ab5807e4ba510ff25832b705814f055dac2164b12d71cc55d119ccc596f5b23d"
     },
     {
       "name": "commons-cli-1.3.1",
@@ -273,9 +273,9 @@
     },
     {
       "name": "injected-client-1.10.52-SNAPSHOT",
-      "size": "1396101",
+      "size": "1396555",
       "path": "https://raw.githubusercontent.com/RuneSpawn/runespawn-hosting/master/stable/injected-client-1.10.52-SNAPSHOT.jar",
-      "hash": "7cf73f76437b5b19dee885710f85ebd7f37e446a85a8961caad4163d62782baa"
+      "hash": "3ffa968308723baf1983bd394e74a1b1d9c4c79898d66305e56107b15c1f9ed6"
     },
     {
       "name": "j2objc-annotations-1.1",
